@@ -1,0 +1,16 @@
+
+(l1) text : Hello, World!
+(l2) save l1
+
+(l3) variable : age : Int : 11
+(l4) save l3
+
+(l5) print : age
+(l6) save l5
+
+(l7) text : font-family : Comic Sans
+(l8) save l7
+
+(l9) enter l1
+(l10) enter l5
+(l11) enter l7
